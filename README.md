@@ -23,4 +23,4 @@ I've always wanted to get into art as a child, but the idea of getting sticky wi
 
 ## Contact
 
-I can be reached at not one, but _two_ different places! I check my email [contact@terrencejchan.com](contact@terrencejchan.com) every day, and I can easily be reached on [Discord](https://discord.com/) via **@Hycic#2025** for a casual chat. I promise that my speaking voice is more pleasant than my writing voice.
+I can be reached at not one, but _two_ different places! I check my email [tjchan.dev@gmail.com](tjchan.dev@gmail.com) every day, and I can easily be reached on [Discord](https://discord.com/) via **@Hycic#2025** for a casual chat. I promise that my speaking voice is more pleasant than my writing voice.
