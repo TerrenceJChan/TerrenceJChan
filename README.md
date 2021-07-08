@@ -16,7 +16,7 @@ I recently graduated from the [University of Waterloo](https://uwaterloo.ca/) wi
 
 While I am flounder about, trying to get a stronger grip in the world of development, I am working on the following projects:
 
-- [discord-rpg-game]() - An adventure RPG that can be played solo or with friends on Discord. (Collaboration project with my friend [@foxfriends](https://github.com/foxfriends).)
+- [discord-rpg-game](https://github.com/TerrenceJChan/discord-rpg-game) - An adventure RPG that can be played solo or with friends on Discord. (Collaboration project with my friend [@foxfriends](https://github.com/foxfriends).)
 - [next-portfolio](https://github.com/TerrenceJChan/next-portfolio) - My third iteration of creating a nice home on the internet. Doubles as an experiment ground to learn Next.js and Sass.
 
 I've always wanted to get into art as a child, but the idea of getting sticky with paint and drawing lines without rulers terrified me to the core. I treat coding as my outlet of finally being able to unleash my creativity while creating something that might be of use to someone.
